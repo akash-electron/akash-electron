@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-electron
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Fulll Stack Development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact No. 7408114355 , E-mail : akkushakku5143@gmail.com
 
