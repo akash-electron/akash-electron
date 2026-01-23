@@ -81,18 +81,23 @@
 
 # 🚀 Featured Projects:
 
-### [VibeChat - Real-Time Communication Platform](https://vibe-chat-app.vercel.app)
+### [VibeChat - Real-Time Communication Platform]
 💬 Full-stack chat application with WebSocket & MQTT | 1000+ concurrent users | Real-time messaging
 
 **Tech:** Next.js, TypeScript, Node.js, MongoDB, WebSocket, Redis, Tailwind CSS
 
-### [CodeCraft - Collaborative Online IDE](https://codecraft-editor.vercel.app)
+### [CodeCraft - Collaborative Online IDE]
 💻 Online code editor with real-time collaboration | 10+ languages | Docker-based execution
 
 **Tech:** React, TypeScript, Node.js, WebSocket, Monaco Editor, Docker, MongoDB
 
 ### [Portfolio Website with CMS](https://akash-portfolio-amber.vercel.app)
 🎨 Dynamic portfolio with custom CMS | 100 Lighthouse score | SEO optimized
+
+**Tech:** Next.js, TypeScript, MongoDB, Tailwind CSS, Framer Motion
+
+### [CMS Panel]
+🎨 CMS Panel For User Management | 100 Lighthouse score | SEO optimized
 
 **Tech:** Next.js, TypeScript, MongoDB, Tailwind CSS, Framer Motion
 
