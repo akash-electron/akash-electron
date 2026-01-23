@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Akash Pandey
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Team+Lead+%7C+1%2B+Years+Experience;Next.js+%7C+React+%7C+Node.js+Expert;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Team+Lead+%7C+1%2B+Years+Experience;Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 # 💫 About Me:
