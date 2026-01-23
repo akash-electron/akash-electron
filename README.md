@@ -68,16 +68,17 @@
 - 🎯 Solved **300+ DSA problems** on LeetCode, GFG, CodeChef
 - 🌟 Active open-source contributor with **50+ contributions**
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-electron&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-electron&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-electron&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=akash-electron&theme=radical&hide_border=true" height="165" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-electron&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-electron&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 # 🚀 Featured Projects:
 
