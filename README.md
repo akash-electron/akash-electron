@@ -7,8 +7,6 @@
 # 💫 About Me:
 🔭 I'm currently working as a **Team Lead & Full Stack Developer** at Reeltor, building high-performance web applications<br><br>
 🚀 Specialized in **Next.js, TypeScript, React, Node.js, Express.js, and MongoDB**<br><br>
-👯 I'm looking to collaborate on **open-source full-stack projects** and **real-time applications**<br><br>
-🤝 Open to **remote or on-site full-time opportunities** as a Senior Developer or Team Lead<br><br>
 💬 Ask me about **Next.js, System Design, WebSocket, SEO Optimization, Core Web Vitals, Cloud Infrastructure**<br><br>
 ⚡ Fun fact: I've built a **real-time chat app** supporting 1000+ concurrent users and an **online IDE** with collaborative coding!<br><br>
 🎯 My mission: Keep sharpening my skills, lead innovative projects, and help others grow in tech
