@@ -121,7 +121,7 @@
 I'm always open to interesting conversations and collaboration opportunities!
 
 📧 **Email:** akkushakku5143@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/akash-pandey-81ab90373](https://linkedin.com/in/akash-pandey-81ab90373/)  
+💼 **LinkedIn:** [linkedin.com/in/akash-pandey-81ab90373](https://www.linkedin.com/in/akash-electron)  
 🌐 **Portfolio:** [akash-portfolio-amber.vercel.app](https://akash-portfolio-amber.vercel.app)  
 💻 **GitHub:** [github.com/akash-electron](https://github.com/akash-electron)
 
