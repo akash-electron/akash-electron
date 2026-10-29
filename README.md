@@ -1,136 +1,107 @@
-## Hi there 👋 I'm Akash Pandey
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Team+Lead+%7C+1.5%2B+Years+Experience;Next.js+%7C+Node.js+%7C+Devops;Building+Scalable+Web+Applications" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e3a8a,100:0ea5e9&height=190&section=header&text=Akash%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Team%20Lead&descSize=18&descAlignY=60&animation=fadeIn" alt="Akash Pandey, Full Stack Engineer and Team Lead" width="100%" />
+
+<a href="https://akash-portfolio-amber.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=0EA5E9&center=true&vCenter=true&width=680&lines=I+build+and+ship+production+platforms+end+to+end;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Go;Web+performance+%C2%B7+SEO+at+scale+%C2%B7+self-hosted+infra;Currently+building+Traffsite+%E2%80%94+analytics+%2B+email+SaaS" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://akash-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/akash-pandey-81ab90373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akkushakku5143@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.npmjs.com/package/@akash-electron/ts-backend"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-full--time%20roles-22c55e?style=for-the-badge" alt="Open to full-time roles" />
+</p>
+
 </div>
 
-# 💫 About Me:
-🔭 I'm currently working as a **Team Lead & Full Stack Developer** at Reeltor, building high-performance web applications<br><br>
-🚀 Specialized in **Next.js, TypeScript, React, Node.js, Express.js, and MongoDB**<br><br>
-💬 Ask me about **Next.js, System Design, WebSocket, SEO Optimization, Core Web Vitals, Cloud Infrastructure**<br><br>
-⚡ Fun fact: I've built a **real-time chat app** supporting 1000+ concurrent users and an **online IDE** with collaborative coding!<br><br>
-🎯 My mission: Keep sharpening my skills, lead innovative projects, and help others grow in tech
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-pandey-81ab90373/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/akash-electron) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://akash-portfolio-amber.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkushakku5143@gmail.com)
+## About me
 
-# 💻 Tech Stack:
+```ts
+const akash = {
+  role: "Full Stack Engineer · Team Lead @ Reeltor",
+  since: "Mar 2024 — leading a team of 5+ engineers since Nov 2024",
+  ships: ["reeltor.com", "gulbhahar.com", "traffsite.com"],
+  daily: ["Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL", "Redis"],
+  lately: ["Go + ClickHouse", "Fastify", "self-hosting everything on Coolify"],
+  cares: ["fast pages", "SEO that scales", "boring, reliable infra"],
+};
+```
 
-### Frontend Technologies
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I like owning a product from the database schema to the last Lighthouse point. Most of my work lives in private company repos, so this page is the map.
 
-### Backend Technologies
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## What I've built in production
 
-### Database & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+| Product | What I own | Stack |
+| :-- | :-- | :-- |
+| **[Reeltor](https://www.reeltor.com)**<br><sub>real-estate marketplace</sub> | Main Next.js app (744 of 1,608 commits, 72 routes), programmatic SEO pages, broker dashboard at [dash.reeltor.com](https://dash.reeltor.com), admin panel, news CMS, Flutter app | Next.js · TypeScript · Tailwind · TanStack Query · Flutter |
+| **Reeltor backend**<br><sub>microservices</sub> | Go + ClickHouse location search with click-based ranking; Node services for auth (Google/Apple OAuth, phone OTP), property search, SEO page data, blog and broker billing | Go · ClickHouse · Express · NestJS · OpenSearch · BullMQ · Redis |
+| **[Gulbahar](https://gulbhahar.com)**<br><sub>ethnic-wear e-commerce</sub> | Storefront plus US, Canada and UAE regional stores, checkout (COD, payment discounts, stock checks), admin panel with 2FA, seller portal at [partners.gulbhahar.com](https://partners.gulbhahar.com) | Next.js · Express · MongoDB · Redis · AWS S3 · Cloudflare |
+| **[Traffsite](https://traffsite.com)**<br><sub>my own SaaS, built solo</sub> | 8 services in ~790 commits: identity + SSO, staff admin API with audit log, privacy-first analytics, encrypted webmail on a self-hosted mail server | Fastify 5 · Prisma · PostgreSQL 16 · Better Auth · Mailcow · Vitest |
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+## Numbers I'm proud of
 
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- **~38% smaller HTML** on Reeltor's SEO pages, plus a multi-process Next.js cluster with shared revalidation
+- **60–80% lower infra cost** after moving deployments to self-hosted Coolify + Docker
+- **35–67% lighter hero images** and Cloudflare cache purge on revalidation for Gulbahar
+- **~2,900 commits** across 30+ repos since 2024
+- **300+ DSA problems** solved on LeetCode, NeetCode, GFG and CodeChef
 
-# 🏆 Key Achievements:
-- 🚀 Led team of 5+ engineers, achieving **30% faster project delivery**
-- ⚡ Improved application performance by **40%** through optimization
-- 💎 Built **15+ production-grade reusable components**
-- 🔒 Architected systems handling **10,000+ concurrent requests**
-- 📈 Achieved **95+ Lighthouse scores** on multiple projects
-- 🎯 Solved **300+ DSA problems** on LeetCode, GFG, CodeChef
-- 🌟 Active open-source contributor with **50+ contributions**
-
-## 📊 GitHub Stats
+## Tech I use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-electron&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=akash-electron&theme=radical&hide_border=true" height="165" />
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,dart,bash&perline=12" alt="TypeScript, JavaScript, Go, Python, Dart, Bash" />
 </p>
+<p align="center">
+  <b>Frontend &amp; mobile</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,flutter&perline=12" alt="Next.js, React, Tailwind CSS, Three.js, Flutter" />
+</p>
+<p align="center">
+  <b>Backend &amp; data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,prisma&perline=12" alt="Node.js, Express, NestJS, MongoDB, PostgreSQL, Redis, Prisma" /><br/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/BullMQ-E0234E?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
+</p>
+<p align="center">
+  <b>Cloud &amp; DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,cloudflare,githubactions,prometheus,grafana,linux,vercel&perline=12" alt="Docker, AWS, Nginx, Cloudflare, GitHub Actions, Prometheus, Grafana, Linux, Vercel" /><br/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square" alt="Coolify" />
+</p>
+
+## Open-source & side projects
+
+| Project | What it is |
+| :-- | :-- |
+| [**ts-backend**](https://github.com/akash-electron/ts-backend-npm-package) · [npm](https://www.npmjs.com/package/@akash-electron/ts-backend) | CLI that scaffolds a production-ready Express + TypeScript backend |
+| [**user-auth-ts-backend**](https://github.com/akash-electron/user-auth-ts-backend) | Feature-based TypeScript auth service: JWT, bcrypt, Zod, Winston |
+| [**minefleet-management-system**](https://github.com/akash-electron/minefleet-management-system) | Mining fleet dashboard with live vehicle tracking and toll management |
+| [**learn-go**](https://github.com/akash-electron/learn-go) | Go fundamentals to advanced, worked through hands-on |
+| [**devops**](https://github.com/akash-electron/devops) | DevOps learning notes with runnable examples |
+
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-electron&layout=compact&theme=radical&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akash-electron&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+    <img src="https://streak-stats.demolab.com?user=akash-electron&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak stats" />
+  </picture>
 </p>
-
-
-# 🚀 Featured Projects:
-
-### [VibeChat - Real-Time Communication Platform]
-💬 Full-stack chat application with WebSocket & MQTT | 1000+ concurrent users | Real-time messaging
-
-**Tech:** Next.js, TypeScript, Node.js, MongoDB, WebSocket, Redis, Tailwind CSS
-
-### [CodeCraft - Collaborative Online IDE]
-💻 Online code editor with real-time collaboration | 10+ languages | Docker-based execution
-
-**Tech:** React, TypeScript, Node.js, WebSocket, Monaco Editor, Docker, MongoDB
-
-### [Portfolio Website with CMS](https://akash-portfolio-amber.vercel.app)
-🎨 Dynamic portfolio with custom CMS | 100 Lighthouse score | SEO optimized
-
-**Tech:** Next.js, TypeScript, MongoDB, Tailwind CSS, Framer Motion
-
-### [CMS Panel]
-🎨 CMS Panel For User Management | 100 Lighthouse score | SEO optimized
-
-**Tech:** Next.js, TypeScript, MongoDB, Tailwind CSS, Framer Motion
-
-# 💼 Professional Experience:
-
-### 🎯 Team Lead @ Reeltor (Nov 2024 - Present)
-- Leading cross-functional team of 5+ engineers
-- Architecting scalable system designs for enterprise applications
-- Conducting code reviews and mentoring junior developers
-- Implementing CI/CD pipelines reducing deployment time by 40%
-
-### 💻 Full Stack Developer @ Reeltor (Mar 2024 - Present)
-- Building high-performance web applications with Next.js & TypeScript
-- Designing RESTful APIs handling 10,000+ concurrent requests
-- Managing cloud infrastructure on AWS & DigitalOcean
-- Achieving 99.9% uptime through monitoring and optimization
-
-# 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-📧 **Email:** akkushakku5143@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/akash-pandey-81ab90373](https://www.linkedin.com/in/akash-electron)  
-🌐 **Portfolio:** [akash-portfolio-amber.vercel.app](https://akash-portfolio-amber.vercel.app)  
-💻 **GitHub:** [github.com/akash-electron](https://github.com/akash-electron)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-electron&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  ⭐️ From [akash-electron](https://github.com/akash-electron) | Made with ❤️ and ☕
+
+**Hiring for full stack, frontend or backend roles?** I'd like to hear about it: [akkushakku5143@gmail.com](mailto:akkushakku5143@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=akash-electron&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:1e3a8a,100:0f172a&height=100&section=footer" alt="" width="100%" />
+
 </div>
